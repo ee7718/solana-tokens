@@ -1,0 +1,21 @@
+{
+  "name": "Maduro",
+  "symbol": "MAD",
+  "description": "Maduro (MAD) is a SPL token on Solana.",
+  "image": "https://raw.githubusercontent.com/ee7718/solana-tokens/main/maduro.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility Token"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/ee7718/solana-tokens/main/maduro.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
