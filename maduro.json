@@ -1,0 +1,16 @@
+{
+  "name": "MaduroDev",
+  "symbol": "MADDEV",
+  "description": "Maduro token on devnet",
+  "image": "https://raw.githubusercontent.com/ee7718/solana-tokens/main/maduro.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/ee7718/solana-tokens/main/maduro.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
